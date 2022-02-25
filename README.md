@@ -24,5 +24,6 @@ Right Click Bamboo to instantly eat the bamboo
 ###
 Note: this has no saturation 
 ###
-#Instant Shoot Bows
+
+# Instant Shoot Bows
 Right Click to instantly shoot a bow
