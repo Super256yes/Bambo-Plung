@@ -35,7 +35,7 @@ Right Click the air while holding a glass helmet to change the color of it
 
 Right Click Bamboo to instantly eat the bamboo
 ###
-Note: this has no saturation 
+Note: this CURRENTLY has no saturation (soon there will be a 1/4 chance to have 2 saturation points) 
 ###
 
 # Instant Shoot Bows
