@@ -1,5 +1,7 @@
 # Bambo-Plung
 Download: https://github.com/Super256yes/Bambo-Plung/releases/tag/minecraft
+### 
+Some dev logs are still in this pre-release due to testing. This will most likely spam your console.
 # Change Log
 
 -added talking ben
