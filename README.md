@@ -1,6 +1,16 @@
 # Bambo-Plung
+#Change Log
 
-Features:
+-added talking ben
+###
+-renamed class files to make easier to read and understand
+###
+-removed unnecessary imports
+
+
+
+
+#Features:
 
 Edible Bamboo
 ###
@@ -27,3 +37,10 @@ Note: this has no saturation
 
 # Instant Shoot Bows
 Right Click to instantly shoot a bow
+###
+Right Click with crossbows to shoot 3 arrows (consumes 3 arrows)
+# Talking Ben
+/ben to obtain item
+###
+Not fully finished yet (many bugs)
+###
