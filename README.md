@@ -6,7 +6,7 @@ Some dev logs are still in this pre-release due to testing. This will most likel
 
 -added talking ben
 ###
--renamed class files to make easier to read and understand
+-renamed class files to make easier understand
 ###
 -removed unnecessary imports
 
