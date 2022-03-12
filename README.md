@@ -1,5 +1,5 @@
 # Bambo-Plung
-#Change Log
+# Change Log
 
 -added talking ben
 ###
@@ -10,7 +10,7 @@
 
 
 
-#Features:
+# Features:
 
 Edible Bamboo
 ###
