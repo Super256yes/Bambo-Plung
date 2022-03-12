@@ -17,6 +17,8 @@ Edible Bamboo
 Glass Helmets
 ###
 Instantly shoot bows
+###
+Talking Ben
 
 # Glass Helmets
 
