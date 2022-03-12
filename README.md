@@ -1,4 +1,5 @@
 # Bambo-Plung
+Download: https://github.com/Super256yes/Bambo-Plung/releases/tag/minecraft
 # Change Log
 
 -added talking ben
