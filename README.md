@@ -2,6 +2,8 @@
 Download: https://github.com/Super256yes/Bambo-Plung/releases/tag/minecraft
 ### 
 Some dev logs are still in this pre-release due to testing. This will most likely spam your console.
+###
+Bows will indeed most likely need a change in the final release
 # Change Log
 
 -added talking ben
