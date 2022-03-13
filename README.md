@@ -1,5 +1,5 @@
 # Bambo-Plung
-Download: https://github.com/Super256yes/Bambo-Plung/releases/tag/minecraft
+Download: https://github.com/Super256yes/Bambo-Plung/releases/tag/PRE2
 ### 
 Bows will indeed most likely get a change in the final release of this version
 # Change Log
