@@ -16,7 +16,7 @@ Bows will indeed most likely get a change in the final release of this version
 ###
 -removed Talking Ben test logs
 ###
--removed temp "air" item in the itemstack (Item.class)
+-removed temp "air" item in the itemstack (Item.java)
 
 
 
