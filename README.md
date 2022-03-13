@@ -6,11 +6,13 @@ Some dev logs are still in this pre-release due to testing. This will spam your 
 Bows will indeed most likely get a change in the final release of this version
 # Change Log
 
--added talking ben
+-severly optimized code
 ###
--renamed class files to make easier understand
+-deleted /give_all_glasshelms as it was mainly used as a test command when I made this.
 ###
--removed unnecessary imports
+-removed merged several cmd files into one Commands.java file
+###
+-Changed Talking Ben to use LEFT CLICK
 
 
 
