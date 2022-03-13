@@ -8,7 +8,7 @@ Bows will indeed most likely get a change in the final release of this version
 ###
 -deleted /give_all_glasshelms as it was mainly used as a test command when I made this.
 ###
--removed merged several cmd files into one Commands.java file
+-merged several cmd files into one Commands.java file
 ###
 -changed Talking Ben to use LEFT CLICK
 ###
