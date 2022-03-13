@@ -15,6 +15,8 @@ Bows will indeed most likely get a change in the final release of this version
 -slightly Modified Bamboo to give slight saturation
 ###
 -removed Talking Ben test logs
+###
+-removed temp "air" item in the itemstack
 
 
 
