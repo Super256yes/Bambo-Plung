@@ -10,11 +10,11 @@ Bows will indeed most likely get a change in the final release of this version
 ###
 -removed merged several cmd files into one Commands.java file
 ###
--Changed Talking Ben to use LEFT CLICK
+-changed Talking Ben to use LEFT CLICK
 ###
-Slightly Modified Bamboo to give slight saturation
+-slightly Modified Bamboo to give slight saturation
 ###
-Removed Talking Ben test logs
+-removed Talking Ben test logs
 
 
 
