@@ -1,8 +1,6 @@
 # Bambo-Plung
 Download: https://github.com/Super256yes/Bambo-Plung/releases/tag/minecraft
 ### 
-Some dev logs are still in this pre-release due to testing. This will spam your console.
-###
 Bows will indeed most likely get a change in the final release of this version
 # Change Log
 
@@ -13,7 +11,10 @@ Bows will indeed most likely get a change in the final release of this version
 -removed merged several cmd files into one Commands.java file
 ###
 -Changed Talking Ben to use LEFT CLICK
-
+###
+Slightly Modified Bamboo to give slight saturation
+###
+Removed Talking Ben test logs
 
 
 
@@ -26,12 +27,12 @@ Glass Helmets
 Instantly shoot bows
 ###
 Talking Ben
+###
+
 
 # Glass Helmets
 
 /glasshelm - this gives yourself a glasshelm 
-###
-/give_all_glashelms - test command to give yourself all the variants of the glass helmets
 ###
 Left Click the air while holding a glass helmet to equip it
 ###
